@@ -1,4 +1,4 @@
-  #Pointers In C
+  # Pointers In C
  A pointer is a reference to the menory address of another variable in c.<br>
  When I say int *ptr=&b, I mean: "O ptr, store for me the address of b."<br>
 I also mean by extension tha b must be an integer <br>
