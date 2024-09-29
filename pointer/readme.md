@@ -1,6 +1,6 @@
   # Pointers In C
  A pointer is a reference to the menory address of another variable in c.<br>
- When I say int *ptr=&b, I mean: "O ptr, store for me the address of b."<br>
+ When I say ' int *ptr=&b', I mean: "O ptr, store for me the address of b."<br>
 I also mean by extension tha b must be an integer <br>
  Since a pointer is also a variable albeit being special, it must also have an address in memory.<br>
  When I want to retrieve the value stored in the address that the pointer points to, I use a deferencing operator.<br>
